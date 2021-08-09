@@ -1,1 +1,1 @@
-# django_serialiation-and-CRUDE
+# django_serialization-and-CRUDE
